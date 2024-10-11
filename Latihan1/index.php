@@ -99,7 +99,7 @@
             default:
                 $hasil = "Operator Tidak Valid";
         }
-        echo"<h3>Hasil: $hasil</h3>";
+        echo"<h3>Hasil Perhitungan: $hasil</h3>";
     }
     ?>
      </div>
